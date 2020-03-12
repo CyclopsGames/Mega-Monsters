@@ -1,4 +1,4 @@
-# Mega-Monsters
+# Mega Monsters
 Mega Monsters is an RPG game that includes creatures called Mega Monsters.
 Rather then simply having choices, Mega Monsters is based on them.
 You control your player by making choices at the choice screens. Make the wrong choice, and you've risked losing.
